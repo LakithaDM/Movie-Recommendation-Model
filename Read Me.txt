@@ -1,0 +1,3 @@
+For this model the movie Lens 20M dataset is used.
+You can download it in Kaggle.
+(Movie.csv and Rating.csv)
